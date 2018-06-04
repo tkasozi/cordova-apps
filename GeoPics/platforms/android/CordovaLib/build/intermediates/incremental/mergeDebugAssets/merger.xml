@@ -1,0 +1,2 @@
+<?xml version="1.0" encoding="utf-8"?>
+<merger version="3"><dataSet config="main"><source path="/Users/tkasozi/Google Drive/school2018/MyCordovaApps/GeoPics/platforms/android/CordovaLib/assets"/><source path="/Users/tkasozi/Google Drive/school2018/MyCordovaApps/GeoPics/platforms/android/CordovaLib/build/generated/assets/shaders/debug"/></dataSet><dataSet config="debug"><source path="/Users/tkasozi/Google Drive/school2018/MyCordovaApps/GeoPics/platforms/android/CordovaLib/src/debug/assets"/></dataSet></merger>

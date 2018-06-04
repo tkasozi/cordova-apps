@@ -1,0 +1,21 @@
+{
+  "prepare_queue": {
+    "installed": [],
+    "uninstalled": []
+  },
+  "config_munge": {
+    "files": {}
+  },
+  "installed_plugins": {
+    "cordova-plugin-whitelist": {
+      "PACKAGE_NAME": "com.example.geopics"
+    },
+    "cordova-plugin-geolocation": {
+      "PACKAGE_NAME": "com.example.geopics"
+    },
+    "cordova-plugin-camera": {
+      "PACKAGE_NAME": "com.example.geopics"
+    }
+  },
+  "dependent_plugins": {}
+}
